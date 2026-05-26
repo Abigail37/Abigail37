@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/abigailogunmola">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
+
   <a href="https://abigail37.github.io/myportfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel" />
   </a>

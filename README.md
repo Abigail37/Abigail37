@@ -1,10 +1,10 @@
 ## Hi there, I'm Abigail Ogunmola 👋
 <p align="center">
-  <a href="www.linkedin.com/in/abigailogunmola">
+  <a href="https://www.linkedin.com/in/abigailogunmola">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="abigail.pxxl.click">
+  <a href="https://abigail.pxxl.click">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel" />
   </a>
 

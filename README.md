@@ -37,6 +37,16 @@ Beyond data analytics, I enjoy crotcheting, listening to music and reading.
 - 📈 Building interactive Power BI dashboards
 - 📊 Working on data analysis projects using Excel, Power Query and Power BI
 - ✍️ Sharing my learning journey and projects on LinkedIn
+
+- ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 <!--
 **Abigail37/Abigail37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -32,9 +32,6 @@ Beyond data analytics, I enjoy crotcheting, listening to music and reading.
   
 - ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=  Abigail37&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abigail37&theme=tokyonight" />
 </p>
 
